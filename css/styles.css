@@ -973,11 +973,11 @@ input[type='checkbox'] {
 /*************************/
 /*     08. Details 1     */
 /*************************/
-.accordion .area-1 {
+/* .accordion .area-1 {
 	height: 27rem;
 	background: url('../Videos/TabaqFoudation.mp4') center center no-repeat;
 	background-size: cover;
-}
+} */
 
 .accordion .accordion-container {
 	max-width: 90%;
